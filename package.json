@@ -1,0 +1,11 @@
+{
+  "name": "Solidity",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.7",
+    "forge-std": "^1.1.2",
+    "hardhat": "^3.21.2",
+    "viem": "^2.57.18"
+  }
+}
